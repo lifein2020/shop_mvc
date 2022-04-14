@@ -1,9 +1,10 @@
 # "Shop"
 
-### Test version of online store. Pagination is done using the MVC pattern. Products can be added to the cart from the catalog and from the product card. Implemented removal from the trash. Products data is stored in a database.
+### Test version of online store. Pagination is done using the MVC pattern. Products data is stored in a database.
 
 ## Functionality: ##
-
+* addition product to the cart from the catalog and from the product card
+* removal product from the trash
 
 ## Technology: ##
 * front-end: JavaScript, HTML, Bootstrap
