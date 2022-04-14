@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} !^/old/
+RewriteCond %{REQUEST_URI} !^/edu/
+RewriteCond %{REQUEST_URI} !^/resource/
+
+RewriteRule .* index.php [QSA,L]
