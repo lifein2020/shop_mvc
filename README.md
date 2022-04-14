@@ -13,6 +13,3 @@
 * database: MySQL
 * MVC pattern, cookie
 * simple SQL-queries
-
-## Plans for finalizing the project: ##
-finalize the test
