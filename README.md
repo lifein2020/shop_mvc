@@ -4,8 +4,8 @@
 
 ## Functionality: ##
 * view product card
-* addition product to the cart from the catalog and from the product card
-* removal product from the trash
+* addition product to the online shopping cart from the catalog and from the product card
+* removal product from the online shopping cart
 
 ## Technology: ##
 * front-end: JavaScript, HTML, Bootstrap
